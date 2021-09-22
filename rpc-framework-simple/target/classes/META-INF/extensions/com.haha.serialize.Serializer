@@ -1,0 +1,2 @@
+kyro=com.haha.serialize.kyro.KryoSerializer
+protostuff=com.haha.serialize.protostuff.ProtostuffSerializer

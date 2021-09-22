@@ -1,0 +1,2 @@
+netty=com.haha.remoting.transport.netty.client.NettyRpcClient
+socket=com.haha.remoting.transport.socket.SocketRpcClient

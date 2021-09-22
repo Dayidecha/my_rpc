@@ -1,0 +1,1 @@
+loadBalance=com.haha.loadbalance.loadbalancer.ConsistentHashLoadBalance
